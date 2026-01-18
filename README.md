@@ -55,3 +55,7 @@ This notebook covers an end-to-end image classification pipeline:
 For faster training, enable **GPU** in Colab:
 Runtime → Change runtime type → Hardware accelerator → GPU
 
+## Acknowledgements
+Notebook completed using a provided project template and dataset from an online ML curriculum.
+
+
