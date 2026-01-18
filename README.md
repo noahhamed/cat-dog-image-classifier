@@ -10,6 +10,18 @@ This notebook covers an end-to-end image classification pipeline:
 - Build and train a CNN using the Keras **Sequential** API
 - Evaluate performance using accuracy/loss curves
 - Generate probability-based predictions on unseen test images
+## Screenshots
+
+### Training Curves
+<img width="751" height="685" alt="image" src="https://github.com/user-attachments/assets/48caa023-44f8-48ff-afe5-ab3798dfa0f2" />
+
+
+### Test Predictions
+ <img width="201" height="888" alt="image" src="https://github.com/user-attachments/assets/53f0e21f-33e7-4814-8797-a65e44d2a2e1" /> <img width="205" height="900" alt="image" src="https://github.com/user-attachments/assets/fb5214a9-1bdd-45d6-a754-0a0ee82ac2b4" />
+
+
+
+
 
 ## Skills Demonstrated
 **Deep Learning**
